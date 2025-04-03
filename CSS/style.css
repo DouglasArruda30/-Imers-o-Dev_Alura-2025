@@ -17,9 +17,9 @@ body {
 /* Logo Styles */
 .logo {
   position: absolute;
-  top: 5px;
-  right: 5px;
-  max-width: 150px;
+  top: 15px;
+  right: 15px;
+  max-width: 200px;
   width: auto;
 }
 
@@ -37,8 +37,11 @@ body {
 .content {
   text-align: center;
   background-color: rgba(0, 0, 0, 0.5); // alterado para o tema
-  padding: 20px 30px;
+  padding: 0px;
   border-radius: 10px;
+  width: 35%;
+  height: 45%;
+
 }
 .content:hover {
   background-color: rgba(0, 0, 0, 0.7); // alterado para o tema
@@ -53,7 +56,7 @@ body {
 button {
   background-color: rgba(0, 0, 0, 0.75); //cor alterada para tema
   border: none;
-  padding: 10px 20px;
+  padding: 10px 10px;
   font-size: 1.2em;
   color: white;
   cursor: pointer;
