@@ -1,4 +1,5 @@
-# 📌 Imersão Dev Alura 2025
+# 📌 Imersão Dev Alura 2025 
+AULA 1
 
 Repositório dedicado ao registro do meu processo de estudo e das tarefas realizadas durante a **Imersão Dev** da Alura. Aqui, pratico, estudo e me desafio através de pequenos projetos.
 
