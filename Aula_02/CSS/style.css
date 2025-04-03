@@ -21,7 +21,7 @@ body {
   .container {
     background: url("https://images.tcdn.com.br/img/img_prod/1281743/noticia_169851781766fdd133ac0c7.png")
       no-repeat center center/cover;
-    max-width: 1200px;
+    max-width: auto;
     height: 830px;
     display: flex;
     justify-content: center;
