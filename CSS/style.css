@@ -1,0 +1,72 @@
+* Global Styles */
+header {
+  background-color: black; // alterado para o tema
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+  position: relative;
+}
+
+/* Logo Styles */
+.logo {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  max-width: 150px;
+  width: auto;
+}
+
+/* Container with the background image */
+.container {
+  background: url('https://imageio.forbes.com/specials-images/imageserve/65a9d2527602ee9b56bde308/Ellie-takes-cover-from-enemies-in-The-Last-of-Us-part-2/960x0.jpg?format=jpg&width=1440') no-repeat center center/cover; // img escolhida de the last of us
+  max-width: 1100px;
+  height: 830px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Content div for text and button */
+.content {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5); // alterado para o tema
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+.content:hover {
+  background-color: rgba(0, 0, 0, 0.7); // alterado para o tema
+}
+
+.content h2, p {
+  margin-bottom: 10px;
+  color: white; // alterado para o tema
+}
+
+/* Button Styles */
+button {
+  background-color: rgba(0, 0, 0, 0.75); //cor alterada para tema
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 15px; //acrescentei border redius para deixar o botão mais arredondado
+}
+
+button:hover {
+  background-color: blue; //feita alteração de cor para azul, para melhor aparecia do tema que escolhi
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  padding: 20px;
+}
