@@ -1,0 +1,64 @@
+/* Global Styles */
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    position: relative;
+  }
+  
+  /* Logo Styles */
+  .logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    max-width: 80px;
+    width: auto;
+  
+  }
+  
+  /* Container with the background image */
+  .container {
+    background: url('https://i.pinimg.com/736x/04/13/9c/04139cf5363fd511537425517e7b122a.jpg') no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Content div for text and button */
+  .content {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px 60px;
+    border-radius: 8px;
+  }
+  
+  .content h2 {
+    margin-bottom: 20px;
+  }
+  
+  /* Button Styles */
+  button {
+    background-color: rgba(0, 0, 0, 0.75);
+    border: none;
+    border-radius: 15px;
+    padding: 30px 30px;
+    font-size: 1.2em;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+  }
+  
+  button:hover {
+    background-color: red;
+  }
+  
+  /* Footer Styles */
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+  

@@ -17,6 +17,14 @@ Neste segundo projeto, recebi novamente os arquivos **HTML** e **CSS** da Alura 
 
 Além disso, personalizei o projeto com algumas alterações no **CSS**, no **HTML** e nas **imagens**, deixando-o mais dinâmico e visualmente atrativo.
 
+### 📌 Projeto 3: Enigma de Três Níveis
+
+Na terceira aula da imersão, desenvolvemos um jogo baseado em escolhas numéricas. O exemplo original da Alura foi inspirado na cena do jogo do "piso de vidro" da série **Round 6** (Netflix). 
+
+Eu personalizei a proposta criando um **enigma dividido em três níveis**, onde o jogador deve escolher entre os números **1, 2 ou 3** para avançar. O jogo simula uma sequência lógica com o objetivo de **desvendar o caminho correto** até o final. Caso a escolha seja incorreta, o jogador é reiniciado ou perde.
+
+Toda a lógica foi desenvolvida em **JavaScript**, e também realizei modificações no **HTML**, **CSS** e nas **imagens** para adaptar o jogo ao tema de **mistério e desafio**.
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**  
@@ -26,9 +34,9 @@ Além disso, personalizei o projeto com algumas alterações no **CSS**, no **HT
 ## 📌 Objetivos
 
 ✅ Aprimorar meus conhecimentos em **HTML, CSS e JavaScript**  
-✅ Praticar manipulação de valores e conversões monetárias  
-✅ Criar uma interface personalizada e interativa  
-✅ Implementar JavaScript utilizando apenas **IF** para lógica de decisão  
-✅ Desenvolver um jogo funcional e intuitivo  
+✅ Praticar manipulação de valores, lógica e condicionais  
+✅ Criar interfaces interativas com experiências únicas  
+✅ Adaptar ideias propostas em aula para projetos personalizados  
+✅ Desenvolver jogos simples e funcionais com interatividade via navegador  
 
 Sinta-se à vontade para explorar o código e sugerir melhorias! 🚀
