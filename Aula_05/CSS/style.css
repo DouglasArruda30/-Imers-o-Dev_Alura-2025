@@ -1,0 +1,112 @@
+body {
+    background: url("https://i.pinimg.com/736x/cd/ca/c3/cdcac3e6efb47db99ab8d05df0baf6b3.jpg") no-repeat center
+      center fixed;
+    background-size: cover;
+    font-family: "Gabarito", sans-serif;
+    margin: 20px;
+  }
+  
+  .logo {
+    text-align: end;
+  }
+  
+  .logo img {
+    width: 20%;
+  }
+  
+  /* Caixa principal do jogo */
+  .conteudo-jogo {
+    background: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 5px red;
+    margin: 30px;
+    padding: 10px;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    border-radius: 20px;
+  }
+  
+  .conteudo-jogo:hover {
+    background: rgba(0, 0, 0, 0.75);
+    box-shadow: 0 0 5px orange;
+  }
+  
+  /* Títulos e textos */
+  h2, h3,
+  p {
+    color: white;
+  }
+  
+  /* Estrutura do questionário */
+  .questionario {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 70%;
+    max-width: 70%;
+  }
+  
+  /* Área de conteúdo */
+  .conteudo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+    gap: 20px;
+  }
+  
+  /* Estilo da pergunta */
+  .pergunta {
+    font-weight: 600;
+    color: white;
+  }
+  
+  /* Progresso da pergunta */
+  .progresso {
+    text-align: end;
+    font-size: small;
+    font-weight: 500;
+    color: white;
+  }
+  
+  /* Área das respostas */
+  .respostas {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  /* Botões de resposta */
+  .botao-resposta {
+    width: 100%;
+    height: 2.5rem;
+    text-align: start;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+    background: rgba(0, 0, 1, 0.35);
+    color: white;
+  }
+  
+  .botao-resposta:hover {
+    background: red;
+    font-weight: 600;
+  }
+  
+  /* Tela de fim do jogo */
+  .fim {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .fim span {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+  }
+  
+  
