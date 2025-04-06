@@ -1,0 +1,64 @@
+body {
+    background: url("https://i.pinimg.com/736x/5e/79/29/5e79295f77e2e02fb19c877d1d2a73ab.jpg") no-repeat center
+      center fixed;
+    background-size: cover;
+    font-family: "Gabarito", sans-serif;
+    margin: 20px;
+  }
+  
+  .logo {
+    text-align: end;
+  }
+  
+  .logo img {
+    width: 20%;
+  }
+  .titulo {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    margin: 30px;
+    border-radius: 20px;
+    padding: 5px;
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 5px #ff1b7b;
+  }
+  /* Caixa principal do jogo */
+  .conteudo-jogo {
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 5px #ff1b7b;
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    border-radius: 20px;
+  }
+  
+  .conteudo-jogo:hover {
+    background: rgba(0, 0, 0, 0,5);
+    box-shadow: 0 0 5px #19caca;
+  }
+  .titulo:hover {
+    background: rgba(0, 0, 0, 0,5);
+    box-shadow: 0 0 5px #19caca;
+  }
+  /* Títulos e textos */
+  h2,
+  p {
+    color: white;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    background: #ff1b7b;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  button:hover {
+    background: #19caca;
+  }
+  
