@@ -25,6 +25,24 @@ Eu personalizei a proposta criando um **enigma dividido em três níveis**, onde
 
 Toda a lógica foi desenvolvida em **JavaScript**, e também realizei modificações no **HTML**, **CSS** e nas **imagens** para adaptar o jogo ao tema de **mistério e desafio**.
 
+### 📌 Projeto 4: Batalha de Times
+
+Neste projeto, criamos um jogo de batalha entre **três personagens do nosso time** contra vilões sorteados **aleatoriamente**. Utilizamos **arrays** para armazenar os personagens e os vilões, cada um com diferentes níveis de força.
+
+A lógica do jogo foi construída com **laços de repetição (loops)** e estruturas **for**, que comparam as forças dos personagens e dos vilões, determinando o vencedor de cada rodada de combate. Cada batalha é decidida por sorteio e cálculo de força, tornando o jogo dinâmico e imprevisível.
+
+Adaptei imagens, estilos e interações para deixar o jogo mais envolvente e visualmente atrativo.
+
+### 📌 Projeto 5: Quiz - Stranger Things
+
+Na quinta aula, desenvolvemos um **quiz interativo** com base na série **Stranger Things**. Utilizamos **arrays** para armazenar as perguntas, alternativas e as respostas corretas (true ou false).
+
+O quiz possui **cinco perguntas** de verdadeiro ou falso sobre o universo da série. Ao final, o usuário recebe um feedback mostrando **quantas perguntas acertou de 5**.
+
+Toda a lógica foi construída em **JavaScript**, com manipulação de arrays, estrutura de repetição e comparação de respostas. Também foram feitas personalizações visuais com **HTML** e **CSS** para adaptar ao tema da série.
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**  
@@ -34,9 +52,13 @@ Toda a lógica foi desenvolvida em **JavaScript**, e também realizei modificaç
 ## 📌 Objetivos
 
 ✅ Aprimorar meus conhecimentos em **HTML, CSS e JavaScript**  
-✅ Praticar manipulação de valores, lógica e condicionais  
+✅ Praticar manipulação de valores, lógica, condicionais e loops  
 ✅ Criar interfaces interativas com experiências únicas  
 ✅ Adaptar ideias propostas em aula para projetos personalizados  
 ✅ Desenvolver jogos simples e funcionais com interatividade via navegador  
+
+---
+
+💙 Agradeço à **Alura** e toda a equipe envolvida na **Imersão Dev 2025** por proporcionar essa jornada de aprendizado repleta de desafios, criatividade e crescimento!
 
 Sinta-se à vontade para explorar o código e sugerir melhorias! 🚀
